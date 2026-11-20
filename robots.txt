@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sarniasites.github.io/jan-s-fitness-studio/sitemap.xml
